@@ -3,3 +3,4 @@ echo FriendC
 
 
 Verion1 feature
+Version 2 squash
