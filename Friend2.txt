@@ -1,2 +1,4 @@
-File2  master
+Hi this is friend 2
+Friend2 is new
+This is new feature
 
