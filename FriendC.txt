@@ -1,6 +1,1 @@
-FriendC >FriendC.txt
-echo FriendC
-
-
-Verion1 feature
-Version 2 squash
+Version 4 for friend 3
